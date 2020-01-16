@@ -1,0 +1,64 @@
+---
+layout: post
+title:  "Ramping up Capabilities: Monthly Goals for 2020"
+date:   2020-01-15
+categories: [goals]
+tags: [2020goals]
+---
+
+I'm always looking for self-improvement projects, and New Years tends to be a
+good forcing function where everyone is thinking about this kind of thing.
+This year is no different, but this time around I want to do things a bit
+differently. My experience with past years is that a year is really too long
+of a time for most of the types of goals I'm interested in. The goals I set tend
+to either be project-based (have *this* concrete deliverable by the end of the
+year) or habit-based (establish *this* habit this year).
+
+For project-based goals,
+a year gives me too much time to procrastinate. Why worry about starting on
+January 5th if January 6th will do? Why worry about sprinting to finish a
+sub-task by April when there's still May? Before I know it, the project has
+completely fallen off my radar.
+
+Habit-based goals run into a similar procrastination problem, but on the other
+hand giving myself a year to set up a habit is a really low bar in the first place.
+Depending on the habit, if I can perform it consistently for a month I have a
+good chance of making it longer than that. After 2-3 months it seems to be pretty
+solid. I'd prefer to have self-improvement be a constant project, rather than
+something I do until March and then coast for the rest of the year.
+
+So instead, this year my goal is to do 12 sets of smaller goals, one per month.
+These should build off of each other, such that completing all 12 will result in
+habits and deliverables that I would think too ambitious to make a one-year goal.
+On top of leading to more ambitious outcomes, I expect this type of framing to
+simultaneously make it more likely that I actually complete the goals, as I would
+constantly be working towards a fairly limited objective with an impending deadline.
+
+I expect earlier months to be dedicated to improving my "infrastructure" for
+achieving personal goals in general. Think topics around productivity, energy,
+and time management. Later months may involve more specific skills that I'm
+trying to improve, but I still expect almost all goals to be related to a general
+theme of improving general competence. I'm optimistic that actually completing
+12 such goal sets will lead to a significant boost to my personal capability levels.
+
+The purpose of this blog (or at least the goals section) is to provide a public
+source of accountability and social credit. It gives me some
+concrete thing I can point to and be proud of if I complete my monthly goals,
+regardless of whether those goals had easily-identifiable outputs.
+It also encourages me to crystalize
+my thoughts and reasoning, and motivates good retrospectives.
+
+I know a lot of people are against New Year's Resolutions because you can
+make personal resolutions any time of year, and if you think you will only succeed
+because of the day then your odds of following through are pretty low. I somewhat
+agree with this, but there is a reason I thought to do this around New Year's and
+not at some other arbitrary time of year. If you have goals you want to achieve
+that you think of in July, go ahead and start in July. But if you have a vague
+sense of "I wish some things about my life/habits were different, but don't know
+exactly what that means", then it's a good way to trigger some reflection. If you
+resonate with this description and are reading this now, you can use this as a
+trigger regardless of what time of year it happens to be. If you do, I'd love to
+hear about it :)
+
+Anyway, now that we have the framing and motivation out of the way, it's time to
+jump into January!
