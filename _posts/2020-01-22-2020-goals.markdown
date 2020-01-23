@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ramping up Capabilities: Monthly Goals for 2020"
-date:   2020-01-15
+date:   2020-01-22
 categories: [goals]
 tags: [2020goals]
 ---
