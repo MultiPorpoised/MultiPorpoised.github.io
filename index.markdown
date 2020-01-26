@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This is an attempt to do **more** stuff!
+Do more **stuff**!
