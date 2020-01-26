@@ -1,0 +1,172 @@
+---
+layout: post
+title:  "Creating Space: Goals for January 2020"
+date:   2020-01-22
+categories: [goals]
+tags: [2020goals]
+---
+
+When I think about what's blocking me from achieving more of my goals, the most
+immediately obvious answer is that I just don't have a good system in place for
+allocating time and energy outside of my normal recurring obligations. I have
+a schedule, and anything outside of that schedule is "relaxation time". In order
+to achieve any of the things I want to achieve in 2020, I'll need significant
+amounts of time and energy where I can be productive, while being flexible on
+what exactly I'll be working on during that time. This is my main theme for
+January: setting up a productive space to use in future months.
+
+On top of this, it seems that any habit or goal is most fragile in the first few
+weeks, making January a particularly critical time. This whole project could fall
+apart unless I set achievable goals and craft structures to make adhering to
+them as likely as possible.
+
+With that in mind, I have selected a few goals for January. It was actually
+tricky just to spend adequate amounts of time thinking through what I wanted
+the goals to be and planning out how to maximize success likelihood. I ended
+up relying on New Year's enthusiasm and sacrificing some other scheduled work,
+which is not sustainable. In the future I expect to use the time set aside by
+my January habits to craft the goals for subsequent months.
+
+I would also like
+to improve my ability to make predictions about my likelihood of following
+through on various types of goals with various structures, in order to better
+plan around potential roadblocks. Towards that end I'll be making probabilistic
+predictions about these goals, and rating them at the end of the month. Whenver
+there is a parenthetical probability - such as (60%) - that means I am assigning
+60% probability on the previous prediction being correct. Doing this has also
+helped me identify where my goals are weakest, such that I can focus on getting
+better structures to support them.
+
+Without further ado, my first set of monthly goals:
+
+## Goal 1: Accountability
+My first goal for the month is setting up a consistent accountability structure.
+This has two parts: a one-time setup process to make sure I have accountability
+in January, and a recurring process to carry forward into future months.
+
+In order to actually succeed with these goals, I need to do some pre-month work.
+This includes taking a step back, thinking through my life, and selecting goals
+for this first pivotal month. It also includes setting up systems to support
+me in actually following through. On January 2nd I decided I needed to invest
+significant time into figuring out what these goals were and writing them out.
+Then I'd need to find a "challenge network" (TODO: link) of 2+ people who are
+actually capable of holding me to a high standard, and get them to agree to read
+through the document and hold me to it. If you are reading this now, you can
+probably guess how that went (and I am extremely grateful to those who
+agreed to fulfill this role for me).
+
+The recurring structure I want to build to support future months is an extension
+of the one above. Each month I will spend some time thinking of appropriate goals
+for the coming month, write them out, and send them to my challenge network. In
+addition, I will write these up as a public blog post (hello, self-reference!)
+and follow up with a retrospective at the end of the month. This retrospective
+will take a look at what went right and wrong over that month and clarify my
+learnings.
+
+As an interesting aside, I initially assigned 95% probability to
+getting the pre-month work done on January 2nd. It turned
+out to be much more work than I was anticipating, and didn't fit into the time I
+had allotted. However, because I had assigned such an aggressive probability I
+felt more inclinded to spend extra effort making sure it happened. If I had instead
+estimated a 50% chance of success, I think my actual likelihood of finishing would
+be closer to 50%. This means
+there is a feedback loop from the probability I estimate to the final outcome,
+where higher probabilities increased the actual likelihood of success. I
+expect this to only be true if I actually believed the estimate when I made it
+(so I can't game this by assinging 99% to everything). I'm not entirely sure what
+to do with this information, but for now I'll keep an eye on it. If it seems like
+a range of probability estimates that would be "correct" (such that my actual
+odds of success match whatever number I choose to give in that range) I'll just
+pick the most favorable number in that range.
+
+Note that this goal is time-negative. Adhering to it requires spending productive
+time and energy, and that has to come from somewhere. I'm not currently very good
+about allocating these kinds of resources, but the following 2 goals
+attempt to set up this kind of productive space. *If* at least one of the below
+goals is achieved, then my estimated likelihood of successfully sketching out a
+January retrospective and coming up with February goals is 80%. I consider this the
+"minimal" set of criteria for bringing forward a recurring accountability structure.
+My estimate for completing the "full" set of criteria in this goal is 50%, mostly
+just out of the possibility that I decide to actually write and publish January
+posts in February. This wouldn't be that big a failure (*if* I actually do them).
+I'm treating the non-minimal criteria as lower priority than everything else in
+my January goals.
+
+## Goal 2: Weekend Space
+I currently struggle with being productive at home, as this is historically my
+"relaxation spot". This is especially true on weekends. In January I want to
+spend at least 2 hours each of the 4 weekends in a productive headspace at a
+local library. Other than that, I can spend the time doing whatever I feel like
+in the moment.
+
+There are some high-priority tasks on my plate that I will probably feel some
+amount of pressure to do, but for now I will always maintain the option of
+just ignoring those and doing something that feels more pleasant. My main
+concern this month is just setting up adherence and getting the ball rolling,
+so I'll avoid anything that would decrease my likelihood of sticking with
+this - such as enforcing unpleasant tasks. Fortunately none of these *has* to
+be completed by the end of January. The only task I'd like to actually ensure
+I'm scheduling is the writing of blog posts needed to complete Goal 1.
+
+I have scheduled calendar events for this time, and if something comes up that
+conflicts with the schedule, I will successfully reschedule to a different time
+and go anyways (80%). There should not be any full-weekend events or excessively
+last-minute priority schedules in January that I can't work around (90%). If I
+arrive to the library later than scheduled, I will just shift back my plans so
+that I am spending at least 2 hours there (95%+).
+
+I have a pretty strong intuitive notion of what a "productive headspace" is, so
+I don't expect that to be something I am likely to game (95%+). I expect that I
+will spend most of my time in ways that I wouldn't predict ahead of time (65%).
+
+*If* the pre-month component of Goal 1 is completed and I have an accountability
+structure in place, then I assign around 70% likelihood that I successfully spend
+the appropriate time over all weekends. 75% if I can get someone to join me on the
+first trip to the library. Much of the lost probability is just due to overall
+uncertainty since this is the first time I'm doing something like this. I'd roughly
+estimate 10% chance that some scheduling thing will come up that I can't work around,
+10% chance that something comes up that I *could* schedule around but use as an
+excuse not to go, and 10% chance that I come up with some other excuse in the moment
+for not going one of the weeks. Most of this is concentrated on the first weekend
+or two.
+
+## Goal 3: Weekday Space
+Very much in line with the goal above, I want to clear some freeform productive
+space on weekdays. This means at least 45 minutes in a continuous block.`
+45 minutes is my standard pomodoro (TODO:link) time and feels like a good unit
+of work. This does not apply to any "weird" days where I'm on an unusual schedule
+(if I'm sick, holidays, etc). It would be nice to still be productive on at
+least some of these days, but that feels like it should be beyond the scope
+of what I target this month.
+
+I have two types of daily schedules, so I'd need to make this work in both. In
+the first schedule (which I'll just call **A**) I expect it will be really
+easy to accomplish this as I'm already basically there (95%).
+On **B** schedule days I have a convenient time to do this, but it's reliant on
+me remembering at the appropriate time that I am supposed to be doing this kind
+of "productive headspace". My estimate of having at most one failure to use this
+time on **B** schedule days is 65%, and getting the number that high required
+investing some time in setting a TAP (TODO:link) to remember this.
+
+## Goal 4: Legacy/Running
+TODO
+
+## Parting Thoughts
+Based on the numbers I've given so far, the likelihood of achieving all of the
+non-legacy goals is ~30% (note that I'm assuming these are not independent events,
+since I think doing well in one area makes it more likely to do will in another
+and vice-versa). This honestly still feels like it might be too low, I might
+not be using high-enough conditional dependency assumptions. These are also
+fairly sensitive to the amount of social support I end up receiving for this
+initiative. But if I do
+end up doing better than these predict, I can be more confident in my ability
+to follow through in future months, especially as the accomplished goals themselves
+will give me time and struture to support more ambitious future work.
+
+TODO: talk about retrospectives and whatnot (maybe within the goal itself?)
+
+TODO: set up links between here and overall 2020 post
+
+TODO: final edit round
+
+TODO: send out
