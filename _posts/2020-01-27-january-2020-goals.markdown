@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "Creating Space: Goals for January 2020"
-date:   2020-01-22
+date:   2020-01-27
 categories: [goals]
 tags: [2020goals]
 ---
+This is my first set of [monthly goals for 2020]({% post_url 2020-01-22-2020-goals %}).
 
 When I think about what's blocking me from achieving more of my goals, the most
 immediately obvious answer is that I just don't have a good system in place for
@@ -49,7 +50,9 @@ This includes taking a step back, thinking through my life, and selecting goals
 for this first pivotal month. It also includes setting up systems to support
 me in actually following through. On January 2nd I decided I needed to invest
 significant time into figuring out what these goals were and writing them out.
-Then I'd need to find a "challenge network" (TODO: link) of 2+ people who are
+Then I'd need to find a
+["challenge network"](https://twitter.com/adammgrant/status/940719732843515905?lang=en)
+of 2+ people who are
 actually capable of holding me to a high standard, and get them to agree to read
 through the document and hold me to it. If you are reading this now, you can
 probably guess how that went (and I am extremely grateful to those who
@@ -132,8 +135,10 @@ or two.
 
 ## Goal 3: Weekday Space
 Very much in line with the goal above, I want to clear some freeform productive
-space on weekdays. This means at least 45 minutes in a continuous block.`
-45 minutes is my standard pomodoro (TODO:link) time and feels like a good unit
+space on weekdays. This means at least 45 minutes in a continuous block.
+45 minutes is my standard
+[pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+time and feels like a good unit
 of work. This does not apply to any "weird" days where I'm on an unusual schedule
 (if I'm sick, holidays, etc). It would be nice to still be productive on at
 least some of these days, but that feels like it should be beyond the scope
@@ -146,10 +151,56 @@ On **B** schedule days I have a convenient time to do this, but it's reliant on
 me remembering at the appropriate time that I am supposed to be doing this kind
 of "productive headspace". My estimate of having at most one failure to use this
 time on **B** schedule days is 65%, and getting the number that high required
-investing some time in setting a TAP (TODO:link) to remember this.
+investing some time in setting a
+[TAP](https://www.lesswrong.com/posts/wJutA2czyFg6HbYoW/what-are-trigger-action-plans-taps)
+to remember this.
+
+Most of the
+uncertainty is in the first couple times I'm on **B** schedule, or if there is
+ever a scenario where I have no **B** schedule days for a long continuous period
+of time. My answer to the latter point is just to make a very visible checklist
+in my room
+for days where I meet this goal, so that even on **A** days I'm still (hopefully)
+reinforcing the habit for **B** days.
 
 ## Goal 4: Legacy/Running
-TODO
+I want to run a 5k at faster than 6-minute-mile pace.
+
+This goal is in somewhat of a separate category from the ones above. Whereas those
+are intended to form a coherent foundation for future monthly-goal settings, this
+is an extention of an existing long-term goal that I've had for the past ~2 years.
+I'm including it here because it is something I want to invest effort into improving
+each month this year, and I can piggyback on this format. Besides, the whole *point*
+of these monthly goals is so that I can eventually achieve some object-level projects.
+Having an object-level goal running in parallel that doesn't interfere with the
+other goals seems like a good way to keep things grounded.
+
+The overall objective in this category is well-defined, but I expect it to take significantly
+longer than a month to achieve from where I am now (my fastest 5k was at 6:58 pace).
+I got injured again towards the end of December, so my specific goals for this month
+are around recovery and prevention of future injuries. Namely I want to work on
+incorporating strength training and cross training into my routine while slowly
+ramping mileage back up. The exact mileage will depend on how I'm feeling and whether
+I feel sufficiently recovered, but I hope to at least get back to 20mpw 
+(miles per week) by the end of the month.
+
+As for strength and cross training, I currently do rock climbing once a week. But
+this doesn't feel sufficient. I want to do 3 days of strength-type training per
+week in January, so I'm adding one weekly group fitness class, and one day where
+I will do standard weight training at a gym.
+
+For the group class, the primary reason I might not do it is if I forget to bring
+an extra set of workout clothes with me to work. I set a phone reminder to bring
+clothes those days, and will keep an extra backup set at work in case I forget.
+With these I expect 85% likelihood of doing the group class each week.
+
+As for the weight-training day, I've just decided to
+replace my usual run that day with the strength training, and add a run to what
+used to be my rest day. My primary concern is that I won't do this on **B**
+schedule days if I don't go to the gym, but in this case I can just do bodyweight
+exercises at home. I only have 70% likelihood here, mostly because it wouldn't
+be terribly surprising if I missed one **B** day. I'm much more confident that
+I will hit this at least 3 of the 4 weeks (90%).
 
 ## Parting Thoughts
 Based on the numbers I've given so far, the likelihood of achieving all of the
@@ -162,11 +213,3 @@ initiative. But if I do
 end up doing better than these predict, I can be more confident in my ability
 to follow through in future months, especially as the accomplished goals themselves
 will give me time and struture to support more ambitious future work.
-
-TODO: talk about retrospectives and whatnot (maybe within the goal itself?)
-
-TODO: set up links between here and overall 2020 post
-
-TODO: final edit round
-
-TODO: send out
