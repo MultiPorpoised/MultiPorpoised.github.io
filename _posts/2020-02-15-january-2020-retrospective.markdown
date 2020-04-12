@@ -8,7 +8,7 @@ tags: [2020goals]
 
 Overall I consider [January]({% post_url 2020-01-27-january-2020-goals %}) a resounding success.
 
-## Outcome of Goal 1 (Accountability)
+## Outcome of [Goal 1]({% post_url 2020-01-27-january-2020-goals %}#goal-1-accountability){:target="_blank"} (Accountability)
 I successfully
 decided upon a set of goals for the month, wrote them out into a doc, found
 a group of peers to send the doc to, and wrote out a public blog post. The
@@ -28,7 +28,7 @@ didn't put that much effort in editing or improving writing style, which is a
 trend I plan to continue (sorry). At least until I decide that "improve my
 writing skills" should be one of my goals.
 
-## Outcome of Goal 2 (Weekend Productivity)
+## Outcome of [Goal 2]({% post_url 2020-01-27-january-2020-goals %}#goal-2-weekend-space){:target="_blank"} (Weekend Productivity)
 January Goal 2 involved spending a couple of hours being productive at the
 library each week, and that went off without a hitch. A friend agreed to
 accompany me on the first week, which removed almost all the uncertainty around
@@ -47,7 +47,7 @@ I expect it would have been much harder if I was actually coming from home
 beforehand. It also may have been harder if I hadn't had the first week's
 success under my belt already.
 
-## Outcome of Goal 3 (Weekday Productivity)
+## Outcome of [Goal 3]({% post_url 2020-01-27-january-2020-goals %}#goal-3-weekday-space){:target="_blank"} (Weekday Productivity)
 The third goal for the month was spending at least 45 minutes each weekday
 (barring any unusual schedules or sick days, etc). I did get sick for a few days
 in January, and didn't work on those days, but all "normal" days went as planned.
@@ -58,7 +58,7 @@ I was supposed to be in this kind of productive mode, though I'm sure it also
 helped that I have a 45-60 minute time block conveniently carved into my schedule
 to stick this into.
 
-## Outcome of Goal 4 (Cross-Training)
+## Outcome of [Goal 4]({% post_url 2020-01-27-january-2020-goals %}#goal-4-legacyrunning){:target="_blank"} (Cross-Training)
 The fourth and final goal for January was to do 3 days a week of various types
 of strength training and conditioning, one of which was already habitualized.
 I moved my schedule around so what used to be a running day was now a
