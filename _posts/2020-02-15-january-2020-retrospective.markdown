@@ -6,7 +6,7 @@ categories: [goals]
 tags: [2020goals]
 ---
 
-Overall I consider [January]({% post_url 2020-01-27-january-2020-goals %}) a resounding success.
+Overall I consider [January]({% post_url 2020-01-27-january-2020-goals %}){:target="_blank"} a resounding success.
 
 ## Outcome of [Goal 1]({% post_url 2020-01-27-january-2020-goals %}#goal-1-accountability){:target="_blank"} (Accountability)
 I successfully
@@ -76,7 +76,7 @@ doing the same exercise goals that led to it in the first place.
 
 ## Other Takeaways
 On one of the weekends I used some productive time to finish up reading some
-[rationalist/programming fanfiction](https://archiveofourown.org/works/22394524)
+[rationalist/programming fanfiction](https://archiveofourown.org/works/22394524){:target="_blank"}
 which I had mostly finished beforehand. My justification was that my desire to
 just finish it was quite distracting, it wouldn't take that long to finish, and
 it was plausibly more "productive" than reading other types of fiction because

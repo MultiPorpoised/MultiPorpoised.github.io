@@ -5,7 +5,8 @@ date:   2020-04-11
 categories: [goals]
 tags: [2020goals]
 ---
-My goals for [january]({% post_url 2020-02-15-january-2020-retrospective %})
+My goals for [january]({% post_url 2020-02-15-january-2020-retrospective
+%}){:target="_blank"}
 went well, so I'm hoping to continue the momentum
 this month.
 
@@ -23,7 +24,7 @@ Like January, February feels like a particularly critical time to build this
 habit. I'm no longer riding the New-Year's wave, so this is the first month I'll
 be depending almost entirely on the mechanisms I put in place last month. I'm
 writing this post retroactively, but I *did* write these goals up in a document
-on January 31st and sent them out to my [challenge network](https://twitter.com/adammgrant/status/940719732843515905?lang=en),
+on January 31st and sent them out to my [challenge network](https://twitter.com/adammgrant/status/940719732843515905?lang=en){:target="_blank"},
 who were able to provide helpful feedback and encouragement. This post (and all
 monthly goal posts) is based on the associated document and is written from the
 perspective of the time that the document was shared, not from the perspective

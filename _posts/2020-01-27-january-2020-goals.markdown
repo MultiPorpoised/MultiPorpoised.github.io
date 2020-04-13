@@ -5,7 +5,7 @@ date:   2020-01-27
 categories: [goals]
 tags: [2020goals]
 ---
-This is my first set of [monthly goals for 2020]({% post_url 2020-01-22-2020-goals %}).
+This is my first set of [monthly goals for 2020]({% post_url 2020-01-22-2020-goals %}){:target="_blank"}.
 
 When I think about what's blocking me from achieving more of my goals, the most
 immediately obvious answer is that I just don't have a good system in place for
@@ -51,7 +51,7 @@ for this first pivotal month. It also includes setting up systems to support
 me in actually following through. On January 2nd I decided I needed to invest
 significant time into figuring out what these goals were and writing them out.
 Then I'd need to find a
-["challenge network"](https://twitter.com/adammgrant/status/940719732843515905?lang=en)
+["challenge network"](https://twitter.com/adammgrant/status/940719732843515905?lang=en){:target="_blank"}
 of 2+ people who are
 actually capable of holding me to a high standard, and get them to agree to read
 through the document and hold me to it. If you are reading this now, you can
@@ -137,7 +137,7 @@ or two.
 Very much in line with the goal above, I want to clear some freeform productive
 space on weekdays. This means at least 45 minutes in a continuous block.
 45 minutes is my standard
-[pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique)
+[pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique){:target="_blank"}
 time and feels like a good unit
 of work. This does not apply to any "weird" days where I'm on an unusual schedule
 (if I'm sick, holidays, etc). It would be nice to still be productive on at
@@ -152,7 +152,7 @@ me remembering at the appropriate time that I am supposed to be doing this kind
 of "productive headspace". My estimate of having at most one failure to use this
 time on **B** schedule days is 65%, and getting the number that high required
 investing some time in setting a
-[TAP](https://www.lesswrong.com/posts/wJutA2czyFg6HbYoW/what-are-trigger-action-plans-taps)
+[TAP](https://www.lesswrong.com/posts/wJutA2czyFg6HbYoW/what-are-trigger-action-plans-taps){:target="_blank"}
 to remember this.
 
 Most of the
