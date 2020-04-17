@@ -214,4 +214,4 @@ end up doing better than these predict, I can be more confident in my ability
 to follow through in future months, especially as the accomplished goals themselves
 will give me time and struture to support more ambitious future work.
 
-edit: you can find my retrospective for these goals [here]({% post_url 2020-02-15-january-2020-retrospective %})
+edit: you can find my retrospective for these goals [here]({% post_url 2020-02-15-january-2020-retrospective %}).

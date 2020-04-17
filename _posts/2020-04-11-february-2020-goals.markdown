@@ -120,3 +120,5 @@ work blocks and usage of my new backlog system). Goals related to concrete tasks
 (such as Goal 2 about clearing off my backlog) will not recur by default. I
 expect these to be intuitively obvious to me, and hopefully to anyone else
 reading these posts.
+
+edit: you can find my retrospective for these goals [here]({% post_url 2020-04-17-february-2020-retrospective %}).
