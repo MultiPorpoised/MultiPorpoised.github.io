@@ -1,0 +1,190 @@
+---
+layout: post
+title:  "Career Exploration: Goals for March 2020"
+date:   2020-04-19
+categories: [goals]
+tags: [2020goals]
+---
+
+This monthly goal system went well in both
+[january]({% post_url 2020-02-15-january-2020-retrospective %}){:target="_blank"}
+and [february]({% post_url 2020-04-17-february-2020-retrospective %}){:target="_blank"},
+so I am once again hoping to extend the momentum.
+
+In the last two months I've built up a significant capacity to dedicate
+productive effort towards new goals, and now I want to cash in on some of that
+capacity. I'm quickly approaching an inflection point in my professional career,
+in which I can choose what computing subfield I want to spend the next couple
+of years working on. This currently feels like a high-impact but low-information
+decision, as I don't actually have that much breadth of experience in different
+subfields. With that in mind, my main priority for March is getting some quick
+feedback by exploring my top 3 candidates: Security, machine learning, and
+formal methods. I chose these mostly because they feel like the most impactful
+fields moving forward (particularly as part of my desire to see future AI
+systems
+[more robustly secured and aligned](https://en.wikipedia.org/wiki/Human_Compatible){:target="_blank"}).
+The fact that all of them have a significant opportunity for math is an added bonus.
+
+In order to get this signal in limited time, I want to do some preliminary trials
+of all of them simultaneously. By that I mean I'd like to spend at least ~40
+hours trying to do some work in each of the 3 above fields over the month of
+March. Ideally I'd get as much of that time as possible done during the course
+of approved work time, and only have a small amount of overflow into my limited
+personal productivity time (I currently spend ~40 hours a week on work, and ~7
+hours a week on personal productivity).
+As was pointed out to me by my [challenge
+network](https://twitter.com/adammgrant/status/940719732843515905?lang=en){:target="_blank"},
+40 hours is
+nowhere near enough time to actually get ramped up in a new area sufficiently to
+get a good idea of what it's like on the inside, and a better timeframe is
+something like 6 months of full-time work. I fully recognize that this is a
+reasonable criticism, but I just don't want to spend 18 months trying to make
+this decision (in that time I could pick a random field, work in it, and then be
+ready to start switching again!) I'm willing to spend an extra month to try and
+improve my decision, but not much more than that.
+
+And with that motivation, on to the specifics.
+
+## Goal 1: On-the-Clock Exploration
+I work full-time in computing and have some influence over the projects I work
+on. My team's work is adjacent enough to security and machine learning that I
+can pick up projects in both without too much trouble. Thus my first goal for
+the month is to start working on both of these during work hours, with the
+target of
+spending >40 hours on each by the end of the month. Doing this during work hours
+allows me to get some of this exploration by using time that I would have
+already spent on different, likely-less-informative projects, so it feels very
+efficient.
+
+My previous project is just coming to a close at the end of February, so I
+believe I have all the affordance I need to pick up the appropriate next
+projects, and have already discussed this with my manager, who is supportive. I
+predict I will successfully spend at least 40 hours working on a relevant ML
+project (70%) - I've actually already worked with a project lead on scoping out
+the appropriate subproject under their initiative, so I just have to make sure
+that my previous project doesn't overextend by so long that it drowns this out.
+I would put (60%) on spending at least 40 hours working on security-related
+projects. This is in a similar boat of having already been worked out with the
+relevant project lead, but I expect the responsibilities to be more interleaved.
+That is, I'm much more confident that I'll spend at least 5 hours working on
+security than that I'll work on machine learning (95% vs 80%, respectively),
+but am less confident that I'll spend a full 40 hours (60% vs 70%, just to
+restate the previous numbers).
+
+## Goal 2: Off-the-Clock Exploration
+The above goal targets security and machine learning, but I don't see a
+plausible way to spend approved on-the-clock time working on formal methods this
+month. In order to get that exposure, I'd like to invest some of the personal
+productivity time I've been cultivating the last two months. There so happens to
+be a formal methods study group that conveniently starts at the beginning of
+March and plans to cover
+[Formal Reasoning about Programs](http://adam.chlipala.net/frap/){:target="_blank"},
+and the associated
+[MIT course](https://github.com/mit-frap/spring20){:target="_blank"}
+that started a couple weeks earlier (and is instructed by the author of that book).
+
+To try and get a feel for formal methods, the goal is to keep up with the study
+group each week. Assuming the group progresses at the same rate as the class,
+and that the class has a typical workload for college classes, I'd estimate this
+translates to 3-8 hours per week of effort. The necessary time commitment
+depends heavily on whether I just follow along the reading, or whether I try to
+solve the problem sets. Given that I'm trying to actually understand what it
+**feels** like to work on formally verifying programs, I am aiming to do the
+problem sets. I predict (85%) that I'll be able to spend at least 3 hours a week
+working through the book, plus an extra hour per week to attend the study group.
+This level of investment is probably enough to at least let me keep up with the
+reading, as it's usually the amount of time that students spend in lectures
+each week for a given class. I would give a (75%) estimate that I'll spend at
+least 5 hours per week, or fully keep up with the problem sets (whichever is
+sooner). In my experience college courses have a huge variance in the amount of
+time required to complete all the problem sets, and the 5-hour maximum allows me
+to filter this out a bit better and attempt to focus on the most available and
+informative parts of the problem sets. Giving a 75% chance of consistently
+spending 5+ hours a week seems too high given my current budget of ~7 hours a
+week in total; this estimate is taking into account the following goal.
+
+## Goal 3: Adding Time
+Recently I've been becoming more and more aware that it's very difficult to
+simultaneously keep my backlog clear of high-priority tasks, keep up with these
+monthly documents and posts, and still have time to fulfill commitments like
+those laid out in Goal 2. As such I'd like to add some more productive time to
+my schedule, and believe that it's feasible to do this without messing up anything
+else.
+
+I currently take the bus to and from work. The bus into work is spent
+productively (from my [January goals]({% post_url 2020-01-27-january-2020-goals
+%}#goal-3-weekday-space){:target="_blank"}), but on the way back I usually just
+unwind and relax. I'd like to change my habits around this return trip from
+"relax" to "do whatever productive-feeling thing you feel most interested in" -
+which I've come to refer to as "productive meandering". This time is explicitly
+**NOT** for looking at my
+[task tracker]({% post_url
+2020-04-17-february-2020-retrospective %}#outcome-of-goal-1-backlog-system){:target="_blank"}
+and forcing myself to do whatever
+the highest-priority item happens to be. That's what the bus-in and weekend
+productivity blocks are for. During this block I shouldn't feel like I'm really
+_forcing_ myself to do anything. I expect that if I do this right and make it
+habitual (so that it doesn't conflict with my expectations of how I'll spend the
+time, possibly the subject of a future post) then I'll feel at least as good
+about that time as I do about my current habit of relaxation. The hope is that
+it will feel as relaxed as free as it currently does, but that it will also feel
+more fulfilling in some long-term way. To extend the goal of not feeling like an
+onerous commitment, if I have some unusual night-time activity that would
+interfere with my other relaxation time, I will not hold myself to this goal
+(though of course I maintain the option of doing so anyways).
+
+So with that specified, I predict (70%) likelihood that I will successfully
+spend my bus-out time doing productive meandering on every day covered by the
+terms above. The highest risk feels like it will come in the first couple of
+weekdays of the month, along with the Monday after the first weekend. To
+mitigate this, I've set a phone reminder to go off every day right before I get
+on the bus, so that I won't suffer from forgetting. The remaining 30% is mostly
+just on the possibility that I have a really bad or tiring day and really don't
+want to be productive. That being said, I have a really low focus bar for this
+time, and I'm hoping it will still feel relaxing, so I'm optimistic that it won't
+be problematic even on such days.
+
+In addition to this productive meandering time, I'd like to slightly increase
+the amount of focused, prioritized work I'm doing each weekend. This block is
+useful for getting more long-form tasks done, like blog posts or formal
+verification problem sets. I have currently committed to [one 2-hour block
+per weekend]({% post_url 2020-01-27-january-2020-goals %}#goal-2-weekend-space){:target="_blank"}.
+I often spend a bit more time depending on how I'm feeling
+and whether I'm close to completing some task, but I never force myself to work
+more than 2 hours if I don't feel like it. This month, I'd like to officially
+extend the commitment to 2.5 hours. This doesn't feel too burdensome, and gives
+me a good amount more of my most productive focused time. I've also noticed that
+(up to a limit) it's easier to tack on time to the end of an existing
+work-block, when I'm already context-shifted into the task and (hopefully) in the
+zone, than it is to try and get myself to start a new work block.
+
+For these extended weekend blocks, I predict
+(90%) chance of successfully completing the full 2.5 hours each weekend,
+given that the work
+block happens at all (so this would preclude things like full-weekend time
+commitments that prevent me from doing a block that week). The biggest risk
+factor here feels like cases where I just don't have enough time in a weekend
+to fit a 2.5-hours block, but this feels unlikely given my current schedule. It
+also doesn't feel like a failure if I still spend what time I can.
+
+## Parting Thoughts
+My predictions have all turned out to be underconfident in the past two months,
+so I'm trying to update towards confidence. That being said, I still feel
+like it would be a mistake to **significantly** update my confidence. It could
+be that my concern for my own potential to fail has a protective effect against
+that failure, and that changing my confidence will make me less likely to meet
+my goals. It could also just be that I've gotten lucky the past couple months,
+or that I will "run out of steam" in some sense after a fixed time period. I'm
+doing my best to consider these seriously and avoid those failure modes.
+
+As I
+[have mentioned before]({% post_url 2020-04-11-february-2020-goals %}#parting-thoughts){:target="_blank"},
+I'm no longer making it an explicitly numbered "goal" to
+call out that I plan to continue habits built in previous months, but as a brief
+point I predict (85%) likelihood that I will not mess up on any of those goals.
+Here I'm using "mess up" in a way that explicitly does **not** include anything
+unexpected that might come up, but which I would have said was a valid excuse if
+I had known about it in advance. This is just so
+that my estimation isn't dominated by trying to predict whether some completely
+reasonable countervailing force will show up, and I can focus on the part that I
+actually care about.
