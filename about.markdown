@@ -4,15 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+MultiPorpoised is a totally normal human person, and definitely not a small
+group of porpoises in a trench coat with a [fake
+mustache](https://www.google.com/search?q=mustache+disguise){:target="_blank"}.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+He has a technical background and is interested in a variety of subjects, with
+a dream of putting together an organization of super-competent people to solve
+the world's most pressing problems.
