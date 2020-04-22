@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Do more **stuff**!
+Let's chase our crazy potentials!
