@@ -188,3 +188,5 @@ I had known about it in advance. This is just so
 that my estimation isn't dominated by trying to predict whether some completely
 reasonable countervailing force will show up, and I can focus on the part that I
 actually care about.
+
+edit: you can find my retrospective for these goals [here]({% post_url 2020-06-22-march-2020-retrospective %}).
