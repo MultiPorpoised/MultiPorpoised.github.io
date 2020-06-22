@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Let's chase our crazy potentials!
+Grow faster together
