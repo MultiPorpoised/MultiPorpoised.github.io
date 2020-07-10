@@ -61,4 +61,4 @@ trigger regardless of what time of year it happens to be. If you do, I'd love to
 hear about it :)
 
 Anyway, now that we have the framing and motivation out of the way, it's time to
-jump into January!
+jump into [January]({% post_url 2020-01-27-january-2020-goals %})!

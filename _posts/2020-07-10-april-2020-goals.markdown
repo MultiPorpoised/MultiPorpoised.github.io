@@ -1,0 +1,190 @@
+---
+layout: post
+title:  "Resilient Habits: Goals for April 2020"
+date:   2020-07-10
+categories: [goals]
+tags: [2020goals]
+---
+
+Things didn't go well in
+[March]({% post_url 2020-06-22-march-2020-retrospective %}){:target="_blank"}.
+Previously all my habits and systems
+were built off of my standard schedule of buses, libraries, and my work office.
+With COVID-19 I lost all these anchor points and have had a hard time achieving
+my goals.
+
+My focus for this month is thus to get everything back on
+track and to make my systems more resilient to this kind of volatility.
+
+## Goal 1: Delineated Daily Schedule
+My physical environment plays a major role in my habits, energy levels, and
+motivation. The best way I've found to get myself to spend particular chunks of
+time doing particular activities is to make sure I am in a physical location
+that I associate as being reserved for that activity. For instance, I did my
+morning work block on the bus into work, then my work day in the office, then
+productive meandering on the bus home. On weekends I would often go to the
+library to get work done. Home was reserved for rest and relaxation.
+
+Unfortunately, nowadays everything is home. There are no buses or libraries or
+offices. Productive time, work time, and rest time all need to happen at the
+same place, and I'm really not good at that. So my first goal for the month is
+to craft clear boundaries between different types of time, and try to get into
+the habit of better associating the time with the task. There are two components
+of this: physical location and environmental transitions.
+
+First, I want to make sure I have separate physical locations that I keep
+reserved for each type of activity. To this end I've set up a work-from-home
+office in my room, and bought a room divider to section it off from the rest of
+my room (which is reserved for fun/relaxation time). When I need to do personal
+work, I have another room where I can work at a table on my laptop. Thus I now
+have a proxy for the "bus" and "office" I used to anchor my previous habits.
+
+Second, I want to have a routine for transitioning between schedule chunks and
+the associated physical location, which I hypothesize will help establish the
+boundaries and will get me mentally prepared for the next activity. These are
+"at-home" equivalents of things like walking to and from the bus.
+
+The first "transition" happens as soon as I wake up, first thing in the morning.
+I will go outside, listen to a particular "morning" song, and spend 5 minutes
+stretching, shaking out, warming-up, and generally moving. I'll refer to this as
+the "upward transition". It's important that
+this happens first thing in the morning, because in the lack of external
+pressure I often fall into the failure mode of laying in bed on my phone and
+procrastinating on getting started with the day, which doesn't get it off to a
+good start. After this I'm in "productivity mode" until I do another transition.
+
+In "productivity mode" I spend an hour doing personal work, then 8 hours of
+professional work, and then an hour of productive meandering. Importantly,
+during this time I am __not allowed__ to use the bed or couch, which are reserved
+for relaxation time. This is to get into the habit of treating this time as
+actual locked-into-work time as if I was in the office, and avoid another common
+failure mode around constantly tempting myself into taking long breaks. In
+general I should treat this time as if I'm in the office, and avoid doing things
+I wouldn't be comfortable doing there.
+
+To transition from "productivity mode" to "no-obligation personal mode" I will
+go outside, exercise for at least 15 minutes, and shower (which I will refer to
+as the "downward transition"). Usually I expect the
+exercise to be a run, but anything active is sufficient. In addition to
+providing a transition trigger, this also gives me a mental break and feeds
+into my fitness goals. During the exercise I can listen to podcasts, or just do
+some processing of what happened over the day. After the downward transition I
+can now access "relaxing" locations like the bed and couch, and should avoid
+work locations where possible.
+
+So far I've been talking specifically about weekdays, but on weekends I want to
+do the same transitions. The key difference is how much productive time I have
+between the two transitions. So on weekend days where I do my weekend work block,
+that will be the only thing in between the transitions. On the other weekend day
+where I have a full day of rest, I will just do the downward transition
+immediately after the upward transition, and spend the rest of the day in
+relaxation mode.
+
+As an aside, I will just note that the specifics here can be flexible as the
+situation demands. For instance, if it's raining and I don't want to do the
+transitions outside, I can do analogous activities inside.
+
+Given that I fell off the wagon in March, the success of the overall
+monthly-goals project depends on doing this month's goals well. To promote
+adherence, I've done some visualizations and transition practice runs at the
+end of March,
+and have written out an April calendar in a visible location, with each day
+separated into 4 quarters. The first quarter represents whether I successfully did
+an upward transition first thing in the morning. The fourth quarter
+represents whether I did my downward transition before doing any activities that
+shouldn't be allowed in productive mode. (The other two quarters are discussed
+in the following goal).
+
+Every day I will check off the appropriate sections of the calendar to track my
+progress. If I can get 100% adherence of quarters 1 and 4 up to and through
+Sunday, April 12th, then
+I will spend some money and throw a fun even with some friends as a reward.
+
+I am fairly confident (95%) that I'll stick to upward transitions on weekdays,
+after a couple trial runs and realizing how much I enjoy it (turns out that
+basking in the outdoors for a few minutes with some good music and pleasant
+stretching is fun, who knew?) This seems high, but is actually now confident I
+feel. I'm less confident (80%) on weekends, mostly due to the temptation to laze
+in bed in the morning, which is what I usually do. The only reason the
+prediction is this high is because 5 minutes is a small investment, I'm tracking
+things with a reward incentive, and I sent these goals out to my challenge
+network beforehand.
+
+The downward transition is where I expect more difficulty (85% on weekdays and
+80% on weekends, assuming I do the upward transition). On weekdays I'm concerned
+that I'll just feel tired and unmotivated at the end of the day, and I haven't
+yet established habits of exercising on non-running days. On weekends I'm just
+worried it will feel too annoying for rest days. I will try to remain vigilant
+the first couple weekends, with phone reminders set, and afterwards I don't
+expect too much trouble.
+
+## Goal 2: Re-establish Habits
+The habits I've built up from January to mid-March include:
+- An hour of productive time before work on weekday mornings
+- 45 minutes of "productive meandering" each weekday after work
+- One 2.5-hour productivity block each weekend
+- Usage of a backlog/task-prioritization system
+- Slowly building up running mileage
+
+In the latter half of march I was able to re-establish my morning productivity,
+running, and prioritization habits. That leaves post-work "meandering" and
+weekend productivity blocks as habits which I haven't yet re-established.
+
+The meandering goal is simple: after work and before the downward transition
+I'll take a quick break, go to my
+personal productivity spot, and spend an hour doing whatever productive activity
+captures my fancy in the moment. This is a fairly low-intensity time, so it
+shouldn't be too aversive.
+
+As for the weekend work blocks,
+one problem I've noticed is that it isn't clear what kinds of activities should
+"count" towards them. Does it matter if I would do the task by default
+anyways? Does doing taxes count as focused time? Does laundry? Attending EA
+Global? These "default" activities don't help establish new habits as I was 
+going to do them anyways, but they still cost time and energy which
+makes it difficult to do them _in addition_ to other focused work. I'm going to
+attempt to draw an admittedly-fuzzy boundary where regular "maintenance" tasks
+like laundry don't count, but one-off tasks like doing taxes do count. This
+means that a number of weekends will have the 2.5-hour commitment met by
+default, which is fine. In the lack of such externally-scheduled tasks, I will
+spend at least 2.5 hours on one day per weekend doing focused work in between
+the upward and downward transitions. As usual, if I am completely busy on the
+weekends for whatever reason and can't do this block, then the goal will no
+longer apply.
+
+Specifying the goal is simple, but actually sticking to it is another matter.
+I'm going to be using the same tracking and adherence system from the above
+goal, with the calendar divided into quarters. The second quarter represents
+whether I did my morning productivity time and professional work time. These are
+combined into a single entry since I was already doing them consistently at the
+end of March, so they seem low-risk. The third quarter represents whether I did
+productive meandering. If I am able to check both of these quarters off on every
+day up to and through Sunday April 12th, then I have another reward set up for
+myself. Note that this is independent from the similar system in [Goal
+1](#goal-1-delineated-daily-schedule),
+but I expect them to be symbiotic.
+
+I am confident (95%) that I will successfully stick to my morning work block, as
+I've already been successful in re-establishing it so far. I'm less confident
+(70%) that I will succeed with productive meandering each weekday. This seems
+kind of high given the historical data, but it also feels correct. This goes up
+to (80%) if I stick to my transitions properly. Finally, I predict (75%) that
+I'll stick to weekend work blocks, mostly due to concerns that something will
+come up that I didn't predict, and will throw me off. I'll stick to my usual
+rule where if it's obvious that I would have made an exception for a situation
+if I had the foresight to think of it in advance, then I can treat it as an
+exception when it comes up. If it's not obvious I will be conservative and treat
+it as "not an exception", to avoid the temptation to convince myself that
+everything should be an exception.
+
+## Goal 3: Catch Up on the Backlog
+Right now I'm spending a lot of my productive time in a
+not-particularly-targeted manner, based on external inputs like email. Instead
+I'd like to focus on clearing out the highest priority items on my
+backlog/task-tracker. One notable example is blog posts, which I'm quite a bit
+behind on. I would like to clear off all the items from my highest-value bucket,
+as long as they take less than 3 hours to complete.
+
+In the absence of unexpected high-priority work popping up, I predict (90%) that
+I can catch up on blog posts and (70%) that I can get down to at most 3 tasks in
+my highest-value bucket.
