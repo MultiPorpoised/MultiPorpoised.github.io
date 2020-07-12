@@ -118,7 +118,7 @@ worried it will feel too annoying for rest days. I will try to remain vigilant
 the first couple weekends, with phone reminders set, and afterwards I don't
 expect too much trouble.
 
-## Goal 2: Re-establish Habits
+## Goal 2: Re-Establish Habits
 The habits I've built up from January to mid-March include:
 - An hour of productive time before work on weekday mornings
 - 45 minutes of "productive meandering" each weekday after work
@@ -188,3 +188,6 @@ as long as they take less than 3 hours to complete.
 In the absence of unexpected high-priority work popping up, I predict (90%) that
 I can catch up on blog posts and (70%) that I can get down to at most 3 tasks in
 my highest-value bucket.
+
+edit: you can find my retrospective for these goals
+[here]({% post_url 2020-07-12-april-2020-retrospective %}).
